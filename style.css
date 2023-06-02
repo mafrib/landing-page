@@ -71,3 +71,32 @@ button.sign-up {
 img {
     width: 100%;
 }
+
+.information {
+    margin: 50px 0px 100px;
+}
+
+.info-title {
+    color: #1f2937;
+    font-size: 38px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.animals {
+    display: flex;
+    gap: 50px;
+    max-width: 850px;
+    width: 100%;
+    margin: auto;
+}
+
+.animals img {
+    border-radius: 20px;
+}
+
+.description {
+    text-align: center;
+}
