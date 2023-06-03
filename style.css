@@ -100,3 +100,26 @@ img {
 .description {
     text-align: center;
 }
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 100px 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    margin: 0px 150px;
+    line-height: 35pt;
+}
+
+.quote-author {
+    font-weight: 700;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 150px;
+}
