@@ -123,3 +123,25 @@ img {
     justify-content: flex-end;
     margin: 0px 150px;
 }
+
+.call {
+    background: #3882f6;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 150px;
+    padding: 50px 100px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.call-title {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+button.pop-up {
+    border: 2px solid #fff;
+    padding: 3px 28px;
+    height: max-content;
+}
