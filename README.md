@@ -1,4 +1,4 @@
-# landing-page
+# odin-landing-page
 CSS Project: Landing Page
 
 ---
