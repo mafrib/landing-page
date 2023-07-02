@@ -69,7 +69,7 @@ button.sign-up {
 .hero > * { flex: 1; } /*make equal columns*/
 
 img {
-    width: 100%;
+    max-width: 500px;
 }
 
 .information {
@@ -95,6 +95,7 @@ img {
 
 .animals img {
     border-radius: 20px;
+    width: 100%;
 }
 
 .description {
